@@ -6,11 +6,6 @@
 //   package: 'egg-view-nunjucks',
 // };
 
-exports.sequelize = {
-  enable: false,
-  package: 'egg-sequelize'
-}
-
 exports.validate = {
   enable: true,
   package: 'egg-validate',
