@@ -1,7 +1,7 @@
 {
   "name": "qhkj-framework",
   "version": "1.0.0",
-  "description": "",
+  "description": "qhkj eggjs framework",
   "dependencies": {
     "egg": "^2.3.0",
     "egg-cors": "^2.2.2",
@@ -38,10 +38,6 @@
   "ci": {
     "version": "8, 9"
   },
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
   "keywords": [
     "egg",
     "egg-framework"
@@ -57,5 +53,13 @@
     "coverage",
     "dist"
   ],
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qianhaikeji/egg-qhkj-framework.git"
+  },
+  "homepage": "http://www.qianhaikeji.com.cn",
+  "license": "MIT",
+  "publishConfig": { 
+    "registry": "http://registry.npmjs.org" 
+  }
 }
