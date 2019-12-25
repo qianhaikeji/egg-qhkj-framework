@@ -14,6 +14,7 @@ Framework功能规划
 
 所有使用require('egg')的地方现在全部使用require('qhkj-framework')
 在框架中，定制了Egg的Service，使其具备模块间隔离的特性
+在框架中，扩展了Egg的Controller，提供了一些方法
 
 
 提供的middleware
